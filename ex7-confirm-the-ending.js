@@ -3,6 +3,7 @@ function confirmEnding(str, target) {
 }
 confirmEnding("Bastian", "n");
 
+
 // function confirmEnding(str: string, target: string): boolean {
 //   return str.substr(-target.length) == target;
 // }
