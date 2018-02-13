@@ -10,3 +10,5 @@ function repeatStringNumTimes(str, num) {
     }
 }
 repeatStringNumTimes("abc", 3);
+
+// str.repeat(num);
