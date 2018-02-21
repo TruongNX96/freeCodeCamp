@@ -7,4 +7,4 @@ function chunkArrayInGroups(arr: Array<any>, size: number): Array<any> {
     return newArr;
 }
 
-chunkArrayInGroups(["a", "b", "c", "d", "e", "f", "g", "h", "i", "k", "j", "l", "m", "n"], 3);
+chunkArrayInGroups(["a", "b", "c", "d", "e", "f", "g", "h", "i", "k", "j", "l", "m", "n"], 4);

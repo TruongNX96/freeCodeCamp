@@ -5,4 +5,4 @@ function chunkArrayInGroups(arr, size) {
     }
     return newArr;
 }
-chunkArrayInGroups(["a", "b", "c", "d", "e", "f", "g", "h", "i", "k", "j", "l", "m", "n"], 3);
+chunkArrayInGroups(["a", "b", "c", "d", "e", "f", "g", "h", "i", "k", "j", "l", "m", "n"], 4);
